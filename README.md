@@ -1,2 +1,3 @@
-# clue
-🔍 Rust program that will play clue
+# clueprog
+
+🔍 Rust program that can play the clue board game
