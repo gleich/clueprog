@@ -1,3 +1,5 @@
+mod cards;
+
 fn main() {
-    println!("Hello, world!");
+    println!("{}", cards::Character::MissScarlet.name());
 }
